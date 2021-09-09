@@ -32,9 +32,6 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
@@ -43,74 +40,53 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: People Management
       link: # dejar en blanco
+      
+    - item: Empathy
+      link: # dejar en blanco
+      
+    - item: Open-mindedness and adaptability
+      link: # dejar en blanco
+   
+    - item: Critical thinking, creativity, and problem-solving
+      link: # dejar en blanco
+     
+    - item: Confidence
+      link: # dejar en blanco
+
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I’m an Engineer Computer System student, I consider myself a creative person with initiative conflict resolver, communicative person with abilities of leadership and organization, also a person very responsible, dedicated, proactive with capabilities for team work, honest, enthusiastic and autodidact.est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Engineer computer system 
+    university: Instituto de Capacitación y Educación Profesional
+    time: 2019 - currently
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
-
+  
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Project management
+    time: 2020 - 2021
+    company: Magmalabs
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Project management in marketing team.
+      • Elaboration of minutes of meetings
+      • Creation of social media content 
+      • Monitoring of activities in project management tool.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role:  IT Intern
+    time: July 2019 - Dec 2020
+    company: Sría. de Administración -  Gobierno del Estado de Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      • Organizing information through digital formats, analyze administrative processes. 
+      • Update and follow-up to administrative process.
+      • Perform risk analysis.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -125,20 +101,15 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
-      level: 40%
+    - name: Java
+      level: 20%
 
-    - name: Tensorflow
-      level: 60%
+    - name: C ++
+      level: 20%
 
-    - name: Caffe
-      level: 80%
+    - name: Ruby on rails
+      level: 20%
 
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
-      level: 40%
 
 # NO MODIFICAR
 footer: >
