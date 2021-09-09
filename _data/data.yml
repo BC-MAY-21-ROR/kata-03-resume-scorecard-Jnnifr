@@ -13,13 +13,13 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: jennifer.velasco@magmalabs.io
-  phone:
+  phone: 3123107264
   website: # No agregar http://
   linkedin: jennifervelascovillalvazo
   github: brightcoders
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@jnnifr'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -60,7 +60,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I’m an Engineer Computer System student, I consider myself a creative person with initiative conflict resolver, communicative person with abilities of leadership and organization, also a person very responsible, dedicated, proactive with capabilities for team work, honest, enthusiastic and autodidact.est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I’m an Engineer Computer System student, I consider myself a creative person with initiative conflict resolver, communicative person with abilities of leadership and organization, also a person very responsible, dedicated, proactive with capabilities for team work, honest, enthusiastic and autodidact.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -76,17 +76,17 @@ experiences:
     company: Magmalabs
     details: |
       Project management in marketing team./n
-      • Elaboration of minutes of meetings
-      • Creation of social media content 
-      • Monitoring of activities in project management tool.
+      • Elaboration of minutes of meetings/n
+      • Creation of social media content /n
+      • Monitoring of activities in project management tool./n
 
   - role:  IT Intern
     time: July 2019 - Dec 2020
     company: Sría. de Administración -  Gobierno del Estado de Colima
     details: |
-      • Organizing information through digital formats, analyze administrative processes. 
-      • Update and follow-up to administrative process.
-      • Perform risk analysis.
+      • Organizing information through digital formats, analyze administrative processes./n 
+      • Update and follow-up to administrative process./n
+      • Perform risk analysis./n
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
